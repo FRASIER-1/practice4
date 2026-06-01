@@ -1,0 +1,8 @@
+   ~$*.docx
+   *.tmp
+   *.log
+   *.pdf
+   *.html
+   .DS_Store
+   
+   
